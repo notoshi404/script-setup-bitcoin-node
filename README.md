@@ -28,6 +28,8 @@ Repository นี้รวบรวม Script สำหรับติดตั�
 
     ```bash
     git clone https://github.com/notoshi404/script-setup-bitcoin-node.git
+    cd script-setup-bitcoin-node
+    chmod +x *.sh
     ```
 
 2.  **ติดตั้ง Firewall (`setup_fw.sh`)**
